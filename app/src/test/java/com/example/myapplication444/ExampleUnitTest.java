@@ -1,4 +1,4 @@
-package com.geekbrains.a1l3_activity;
+package com.example.myapplication444;
 
 import org.junit.Test;
 
